@@ -103,9 +103,11 @@ Screenshots:
 <img width="1080" height="2424" alt="20_LogTabDel" src="https://github.com/user-attachments/assets/7dfe407b-0053-44cb-a6fc-9d33b9dc45b5" />
 <img width="1080" height="2424" alt="21_StatsTabPlots" src="https://github.com/user-attachments/assets/1adf1f85-94af-4425-b4b4-e3cb4cda1006" />
 
-Video: uploaded on Blackboard
+Video: https://drive.google.com/file/d/1QXY0LtmzVHYu-bF8Rp72bAlYyXT9evKM/view?usp=sharing
 
 APKs: uploaded on Blackboard
+https://drive.google.com/file/d/1ItJss6zGxDdmeq5BkbEj5sc7VrK-MWmZ/view?usp=sharing
+https://drive.google.com/file/d/1ItJss6zGxDdmeq5BkbEj5sc7VrK-MWmZ/view?usp=sharing
 
 Data Flow
 User Input (Log Tab)
